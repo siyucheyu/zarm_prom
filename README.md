@@ -1,3 +1,3 @@
 # zarm_prom
 test
-java map
+java map  list
