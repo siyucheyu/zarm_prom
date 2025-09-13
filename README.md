@@ -1,3 +1,3 @@
 # zarm_prom
-test
-java map  list
+test  
+java map  list  cue
